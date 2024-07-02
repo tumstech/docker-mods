@@ -2,7 +2,7 @@
 
 FROM scratch
 
-LABEL maintainer="EGOISTK21"
+LABEL maintainer="tumstech"
 
 # copy local files
 COPY root/ /
